@@ -15,7 +15,7 @@ function welcomeMessage(NOMBRE) {
   );
 }
 
-// Función para mostrar las opciones del menú
+// Función para mostrar las opciones del menú en la consola
 function displayMenu() {
   console.log("Elija el factor a tener en cuenta (ingrese el número deseado):");
   console.log("1. La morfología de su pie");
